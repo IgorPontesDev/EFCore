@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dbV+QmiLkSbh5R7zMoTJ/AyJrgSecZFMFlHOreNHvvW4y8yVptMEsOJF1pxrcHAa3kfLOiYqm/60S+H4DQNVRA==",
+  "dgSpecHash": "xZ2/qL6wlegUgJkO9CCwi8F8kYUxDPK0wkxErqhKYCHI/5vYZh9rxR5rrr9pEv93ueDlQyOdQF6/6yLrXcQb/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iguin\\source\\repos\\EFCoreWebAPI\\EFCoreWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\iguin\\source\\repos\\EFCoreSqlServer-Exemplo\\EFCoreWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iguin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
